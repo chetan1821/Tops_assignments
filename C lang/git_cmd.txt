@@ -1,0 +1,5 @@
+Git command :
+git status
+git add .
+git commit -m "Updated code - <short note about changes>"
+git push origin main
