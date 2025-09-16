@@ -1,5 +1,5 @@
 Git command :
 git status
 git add . // git add "C lang/git_cmd.txt"
-git commit -m "Updated code - <short note about changes>"
+git commit -m "Added all C Lab C programs"
 git push origin main
